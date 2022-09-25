@@ -1,3 +1,8 @@
 Olá meu nome é davi, e essa pé a mão
 
+<<<<<<< HEAD
 hfuebuiogbbko
+=======
+hfue
+MAto
+>>>>>>> staging
